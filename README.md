@@ -21,10 +21,13 @@ End the program
 #Developed by: AMALJOSH MAADHAV J
 #RegisterNumber: 212223230012
 
+
 import numpy as np
 A = np.array([[4,2],[2,4]])
 B,C = np.linalg.eig(A)
 print(f"Eigen values are {B} and Eigen Vectors are {C}")
+
+
 
 ```
 ## Output:
