@@ -31,6 +31,8 @@ print(f"Eigen values are {B} and Eigen Vectors are {C}")
 
 
 
+
+
 ```
 ## Output:
 ![image](https://github.com/user-attachments/assets/fe6dfd5a-d443-41fe-916b-d8caedc9565f)
